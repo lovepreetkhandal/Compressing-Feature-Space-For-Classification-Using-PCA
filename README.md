@@ -1,1 +1,1 @@
-# Compressing-Feature-Space-For-Classification-Using-PCA
+# Compressing-Feature-Space-For-Classification-Using-Prinicipal Component Analysis
